@@ -1,0 +1,15 @@
+:root {
+    --text-color: red;
+}
+
+li {
+    color: var(--text-color);
+    font-size: 20px;
+}
+
+div {
+    color: green;
+}
+* {
+    margin: 0px;
+}
